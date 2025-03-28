@@ -7,6 +7,12 @@ LINK
 
 ### Preparation and Disassembly:
 
+#### Determine Calculator Model
+-There are two generations of the CX the first of which I was not able to get the drivers working. The model with the most space is the 2nd generation CX although the CX II does work. They are easily distinguishable, take a look at my video for more info. THe CX gen 1 has a larger battery cover than the CX gen 2. The CX gen 2 and CX II have obvious different lables. Same logic follows through for the CAS variants of all these.
+<img width="762" alt="Screenshot 2025-03-28 at 9 26 06 AM" src="https://github.com/user-attachments/assets/fd3b9a37-63cf-49bd-a516-ea53ebb3c1ad" />
+<img width="269" alt="Screenshot 2025-03-28 at 9 30 49 AM" src="https://github.com/user-attachments/assets/2c23bc80-d546-41c3-9b8f-1d1c22197ea7" />
+
+
 #### Open the Battery Housing:
 - Use a small Phillips screwdriver to remove the battery housing cover.
 - Take out the panel and the battery to expose hidden safety screws.
@@ -40,9 +46,12 @@ LINK
 <img width="434" alt="Screenshot 2025-03-27 at 4 44 14 PM" src="https://github.com/user-attachments/assets/aa482438-99f0-4fe7-90e1-2dcdc5a427e5" />
 <img width="214" alt="Screenshot 2025-03-27 at 4 44 27 PM" src="https://github.com/user-attachments/assets/ba037720-3170-453b-94d1-d6da575a069f" />
 
-#### Install Switches and Connector:
+#### Solder and Install Piggyback, Switches, and Connector:
 - Refer to the provided wiring diagram to install two switches—one for grounding the ID pin to enable host mode and the other as the main power switch for the piggyback.
 - Add optional a magnetic connector to facilitate easy assembly and disassembly.
+- Note pinout lables are reversed for the CX II
+- Note between ESP32 and CP2102 RX -> TXD, TX -> RXD in UART communication protocol but between Ti-nspire motherboard and CP2102 D+ -> D+, and D- -> D- in USB communication protocol.
+<img width="1427" alt="Screenshot 2025-03-27 at 11 05 36 PM" src="https://github.com/user-attachments/assets/a837bfc3-31a8-47c1-bb90-9fe1b2f05daa" />
 
 #### Adjust Internal Space:
 - Use necessary tools to free up internal space as needed of the calculator to accommodate the piggyback and switches. Optionally add USB access to the ESP for debugging purposes while it's still in the case. Heres an example of mine.
