@@ -111,7 +111,10 @@ https://www.youtube.com/watch?v=OB99E7Y1cMA&ab_channel=AndersJensen
 https://www.youtube.com/@ti-nspire301
 - CSab6482 Reddit - Provided crucial details about the reversed pinout on the Texas Instruments CX II.
 https://www.reddit.com/r/UsbCHardware/comments/y2dbkf/tinspire_cx_ii_cas_usbc_mod_v2/
+- ArjanR on Thingaverse for Ti-Nspire slide cover model I modified to be a more snug fit and added rubber foot wells.
+https://www.thingiverse.com/thing:4640499
+
 ### Thank You:
-Thank you so much for engaging with my project! With your support, I have exciting plans to further enhance this project. I aim to upgrade the LUA app to display WiFi settings and connectivity, introduce dynamic scrolling for chat responses, and fully integrate all the hardware onto a single PCB to make it more DIY-friendly and user-oriented. Additionally, I plan to implement some cosmetic upgrades to the calculator itself as well as more from your feedback on youtube!
+Thank you so much for engaging with my project! With your support, I have exciting plans to further enhance this project. I aim to upgrade the LUA app to display WiFi settings and connectivity, introduce dynamic scrolling for chat responses, and fully integrate all the hardware onto a single PCB to make it more DIY-friendly, user-oriented, and potentially a product. Additionally, I plan to implement some cosmetic upgrades to the calculator itself as well as more from your feedback on youtube!
 
 If you're interested in seeing these updates come to life and would like to help make them possible, please consider subscribing to my channel and liking and sharing the video. If you're feeling generous, your financial support would be greatly appreciated as the costs of development have been significant. This is my first project here, and I'm grateful for your patience and support throughout this journey. Thank you for being part of this adventure!
