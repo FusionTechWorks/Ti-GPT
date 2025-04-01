@@ -8,8 +8,8 @@ LINK
 ### Preparation and Disassembly:
 
 #### Determine Calculator Model
--There are two generations of the CX the first of which I was not able to get the drivers working. The model with the most space is the 2nd generation CX although the CX II does work. They are easily distinguishable, take a look at my video for more info. THe CX gen 1 has a larger battery cover than the CX gen 2. The CX gen 2 and CX II have obvious different lables. Same logic follows through for the CAS variants of all these.
-<img width="762" alt="Screenshot 2025-03-28 at 9 26 06 AM" src="https://github.com/user-attachments/assets/fd3b9a37-63cf-49bd-a516-ea53ebb3c1ad" />
+- There is some rom for confusion here, I refer to two generations of the CX, I call them the CX gen 1 and CX gen 2, the CX gen 2 is not the CX II, images below for more clarification. There are two generations of the CX the first of which I was not able to get the drivers working and its TiHub chip is large and takes up more internal space, same issue with the first gen CX CAS. The 2nd gen CX CAS, CX II, CX II CAS, CX II-T, and CX II-T CAS, are all based on the newest chipset by TI which has a huge motherboard with an integrated TiHub chip and has least space. That leaves us with 1 model that works, the CX gen 2. It can be identified from all other variants of the Ti-nspire CX class by its white sides AND full back, smaller battery hatch, and navy blue front. More details on the internal discrepancies and visuals in video.
+<img width="625" alt="Screenshot 2025-03-31 at 9 25 25 PM" src="https://github.com/user-attachments/assets/e0e21631-d475-4de2-b84d-d5e3d1b5726c" />
 <img width="269" alt="Screenshot 2025-03-28 at 9 30 49 AM" src="https://github.com/user-attachments/assets/2c23bc80-d546-41c3-9b8f-1d1c22197ea7" />
 
 
