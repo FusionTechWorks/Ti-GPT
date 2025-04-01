@@ -12,11 +12,12 @@ LINK
 
 #### Determine Calculator Model
 - There is some room for confusion here; I refer to two generations of the CX: the CX Gen 1 and CX Gen 2. Note that the CX Gen 2 is not the CX II. For more clarification, see images below.
-- The first generation of the CX, including the CX and CX CAS, had issues with driver compatibility and featured a large TiHub chip that took up significant internal space.
-- The second generation, including the CX CAS Gen 2, CX II, CX II CAS, CX II-T, and CX II-T CAS, is based on the newest TI chipset with a large motherboard and an integrated TiHub chip, offering optimal internal space utilization. The CX Gen 2 is the best model for this project.
+- The first generation of the CX, including the CX and CX CAS, had issues with driver compatibility and featured a larger TiHub chip and larger battery area took up significant internal space.
+- The CX CAS Gen 2, CX II, CX II CAS, CX II-T, and CX II-T CAS, is based on the newest TI chipset with a large motherboard and an integrated TiHub chip, offering minimal internal space.
+- The CX Gen 2 is the best model for this project because it is based on the early chipset with the updated smaller battery and smaller TiHub chip.
 - Note: The CX CAS Gen 2, CX II, CX II CAS, CX II-T, and CX II-T CAS are capable of undergoing this modification, but the extra 1.2mm of space in the CX Gen 1 is crucial for my needs.
-- The CX Gen 2 can be distinguished from other variants by its white sides, full back, smaller battery hatch, and navy blue front. The CX Gen 2 has white sides but a navy back and a larger square battery cover.
-- More details on the internal discrepancies and visuals can be found in the video.
+- The CX Gen 2 can be distinguished from other variants by its white sides, full white back, smaller battery hatch, and navy blue front. The CX Gen 2 has white sides but a navy back and a larger square battery cover.
+- More details on the internal discrepancies and visuals can be found in the video and photos below.
 <img width="625" alt="Screenshot 2025-03-31 at 9 25 25 PM" src="https://github.com/user-attachments/assets/e0e21631-d475-4de2-b84d-d5e3d1b5726c" />
 <img width="269" alt="Screenshot 2025-03-28 at 9 30 49 AM" src="https://github.com/user-attachments/assets/2c23bc80-d546-41c3-9b8f-1d1c22197ea7" />
 
