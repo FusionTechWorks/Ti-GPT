@@ -1,6 +1,9 @@
 # Ti-GPT by FusionTechWorks <img width="42" alt="Screenshot 2025-03-27 at 5 01 29 PM" src="https://github.com/user-attachments/assets/e601bfaa-11de-4ee2-ac2a-95db41efcc50" />
 
-**This Repository is a how-to guide associated with a YouTube video project to enable a Ti-Nspire CX (or CX II) with Chat-GPT utilizing an ESP32C3 and native .LUA app.**
+**This Repository is a how-to guide associated with a YouTube video project to enable a Ti-Nspire CX (and others) with Chat-GPT utilizing an ESP32C3 and native .LUA app.**
+- Link to Video:
+LINK
+- Link for 3D printable Replacement Ti-nspire cx series slide cover:
 LINK
 
 ## TI-Nspire CX Modification Guide
@@ -8,7 +11,12 @@ LINK
 ### Preparation and Disassembly:
 
 #### Determine Calculator Model
-- There is some rom for confusion here, I refer to two generations of the CX, I call them the CX gen 1 and CX gen 2, the CX gen 2 is not the CX II, images below for more clarification. There are two generations of the CX the first of which I was not able to get the drivers working and its TiHub chip is large and takes up more internal space, same issue with the first gen CX CAS. The 2nd gen CX CAS, CX II, CX II CAS, CX II-T, and CX II-T CAS, are all based on the newest chipset by TI which has a huge motherboard with an integrated TiHub chip and has least space. That leaves us with 1 model that works, the CX gen 2. It can be identified from all other variants of the Ti-nspire CX class by its white sides AND full back, smaller battery hatch, and navy blue front. More details on the internal discrepancies and visuals in video.
+- There is some room for confusion here; I refer to two generations of the CX: the CX Gen 1 and CX Gen 2. Note that the CX Gen 2 is not the CX II. For more clarification, see images below.
+- The first generation of the CX, including the CX and CX CAS, had issues with driver compatibility and featured a large TiHub chip that took up significant internal space.
+- The second generation, including the CX CAS Gen 2, CX II, CX II CAS, CX II-T, and CX II-T CAS, is based on the newest TI chipset with a large motherboard and an integrated TiHub chip, offering optimal internal space utilization. The CX Gen 2 is the best model for this project.
+- Note: The CX CAS Gen 2, CX II, CX II CAS, CX II-T, and CX II-T CAS are capable of undergoing this modification, but the extra 1.2mm of space in the CX Gen 1 is crucial for my needs.
+- The CX Gen 2 can be distinguished from other variants by its white sides, full back, smaller battery hatch, and navy blue front. The CX Gen 2 has white sides but a navy back and a larger square battery cover.
+- More details on the internal discrepancies and visuals can be found in the video.
 <img width="625" alt="Screenshot 2025-03-31 at 9 25 25 PM" src="https://github.com/user-attachments/assets/e0e21631-d475-4de2-b84d-d5e3d1b5726c" />
 <img width="269" alt="Screenshot 2025-03-28 at 9 30 49 AM" src="https://github.com/user-attachments/assets/2c23bc80-d546-41c3-9b8f-1d1c22197ea7" />
 
